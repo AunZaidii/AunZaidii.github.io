@@ -767,6 +767,9 @@ margin-top: 40px;
     .about-button {
       margin-left: 150px;
     }
+    .evolve-image, .fast-image {
+      height: 170px;
+    }
   }
   
 }
