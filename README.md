@@ -5,8 +5,6 @@
 
 Modern portfolio website showcasing my projects, skills, and achievements as a Software Engineering student and developer.
 
-![Portfolio Screenshot](/Banners/1.png)
-
 ## Features ✨
 
 - **Responsive Design**: Works on all devices (mobile, tablet, desktop)
